@@ -1,4 +1,4 @@
-# kivumbi2022
+# Decision2022
 
 ## Project setup
 ```
