@@ -6,7 +6,7 @@
         <small>
           <h6></h6>
           <i class="fas fa-asterisk"></i>
-          Official results as per IEBC
+          Official results as per <a href="https://www.iebc.or.ke/">IEBC</a> 
         </small>
       </div>
 
