@@ -79,15 +79,14 @@
     </div>
     <div class="notables">
       <div class="map">
-        <h3>Map</h3>
+        <!-- <h3>Map</h3> -->
         <!-- <MapChart /> -->
       </div>
       <h3 class="title">Statistics</h3>
       <h4>
-        Total Registered Voters: <span>22, 200, 400</span> -- <span>100%</span>
+        Total Registered Voters: <span>22,120,458</span> -- <span>100%</span>
       </h4>
-      <h4>Total TurnOut: <span> </span></h4>
-      <h4>Valid Votes: <span>14 213 027</span>-- <span>64.5%</span></h4>
+      <h4>Valid Votes: <span>14,213,027</span> -- <span>64.5%</span></h4>
       <p>Rejected Votes: <span>***</span></p>
 
       <p>Spoilt Votes: <span>***</span></p>
